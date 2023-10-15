@@ -1,0 +1,43 @@
+{
+  "short_name": "Bowman",
+  "name": "Bowman",
+  "description": "Bowman Consultancy Insurance Agency",
+  "icons": [
+
+    {
+      "src": "https://www.bowman.co.ke/newsite/images/bowman-logo512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "https://www.bowman.co.ke/newsite/images/bowman-logo192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://www.bowman.co.ke/newsite/images/bowman-logo144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "https://www.bowman.co.ke/newsite/images/bowman-logo96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "https://www.bowman.co.ke/newsite/images/bowman-logo72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "https://www.bowman.co.ke/newsite/images/bowman-logo48.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "https://www.bowman.co.ke/newsite",
+  "background_color": "#17206B",
+  "display": "standalone",
+  "scope": "https://www.bowman.co.ke/newsite",
+  "theme_color": "#17206B"
+}
